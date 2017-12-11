@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.licenses      = ['Apache License (2.0)']
   s.summary       = 'This is a test for logstash practice.'
   s.description   = '{This is a test for logstash practice..'
-  s.homepage      = 'This is a test for logstash practice..'
+  s.homepage      = 'https://github.com/wyxhd2008/'
   s.authors       = ['rick']
   s.email         = '601545661@qq.com'
   s.require_paths = ['lib']
