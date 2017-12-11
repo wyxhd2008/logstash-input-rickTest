@@ -2,11 +2,11 @@ Gem::Specification.new do |s|
   s.name          = 'logstash-input-rickTest'
   s.version       = '0.1.0'
   s.licenses      = ['Apache License (2.0)']
-  s.summary       = 'TODO: Write a short summary, because Rubygems requires one.'
-  s.description   = '{TODO: Write a longer description or delete this line.'
-  s.homepage      = 'TODO: Put your plugin''s website or public repo URL here.'
-  s.authors       = ['your_username']
-  s.email         = 'your_username@example.com'
+  s.summary       = 'This is a test for logstash practice.'
+  s.description   = '{This is a test for logstash practice..'
+  s.homepage      = 'This is a test for logstash practice..'
+  s.authors       = ['rick']
+  s.email         = '601545661@qq.com'
   s.require_paths = ['lib']
 
   # Files
